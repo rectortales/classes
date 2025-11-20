@@ -17,7 +17,7 @@ ballz1.display(220,0,0,50);
 ballz1.update(1);
 ballz1.keepinCanvas();
 
-ballz2.display(130,5,6,70);
+ballz2.display(130,100,60,70);
 ballz2.update(1);
 ballz2.keepinCanvas();
 
